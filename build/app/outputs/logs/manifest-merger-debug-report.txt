@@ -1,0 +1,409 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:1:1-41:12
+INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:1:1-41:12
+MERGED from [:firebase_auth] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_storage] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:cloud_firestore] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [:firebase_core] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-15:12
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/09eb11c9e64774716889d0f394dcc8ef/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/510f364f5b87b5b3fe9cfa40bddc7f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:17:1-73:12
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:2:1-25:12
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/treinetic/.gradle/caches/transforms-3/4f8047ea3f940436d5995ff87006a49f/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/treinetic/.gradle/caches/transforms-3/1036d70c6a2692ece9b33ad7d4bc8c25/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/treinetic/.gradle/caches/transforms-3/dc1d7fa97ff98fc32648a19aee4756eb/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/treinetic/.gradle/caches/transforms-3/9f63623c9598f9004b3bed7784264901/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c5e6dcbee54ffb7bc7ed7875285b15b3/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c27b945746c96f85cf690f03cba73097/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/8fcbd48d5961f17e7c8288d78eca842d/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/treinetic/.gradle/caches/transforms-3/1084bb56b4362ca1feff46070bf481f7/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/treinetic/.gradle/caches/transforms-3/d2a5086dac42f28d558f587f429bac22/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/treinetic/.gradle/caches/transforms-3/cbf11ddf072208f721d5f0d2556ca39c/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/66696fb7cb7180e8406ec2b33fa6c129/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/eb6a54cd5b117c33cfdb84431b336157/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/33d7c7b8bc2fa9a1b035f07c2bc81b63/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/56f9f7c29be2667cd1c071b58160a9ef/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /Users/treinetic/.gradle/caches/transforms-3/8d889b06ca2c94fe76a85cd4027e5fb0/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/treinetic/.gradle/caches/transforms-3/9bb2124341d70a2446b2563ce780fb8d/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/acccb81d821b4df4e4f8d926ed206ce8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/treinetic/.gradle/caches/transforms-3/2dd4241f6fd3e8adad1b312698d128dd/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/treinetic/.gradle/caches/transforms-3/f9f8185c759285bdcc930acb7be6a40d/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/2d14ad8a7f745ef47096b868c26be855/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/fa55b1027150146619bdde9f888d45d4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/treinetic/.gradle/caches/transforms-3/462694833ab6cd4da738a629fc835fd8/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/treinetic/.gradle/caches/transforms-3/c34982c3ee191fd3aea94f4ea6742aba/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/treinetic/.gradle/caches/transforms-3/9bc3cc63e8b0ec233fd4a46be56d4c0c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/f8068311d6d5a4b0409de2014f73aa09/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/treinetic/.gradle/caches/transforms-3/6be2396bfc332f8b4ff96833fe90ab37/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/treinetic/.gradle/caches/transforms-3/c76b560031238fb96548d1814a4ee445/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [io.grpc:grpc-android:1.48.1] /Users/treinetic/.gradle/caches/transforms-3/3ae9f626f5bee54498976aa76df0e44c/transformed/jetified-grpc-android-1.48.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/treinetic/.gradle/caches/transforms-3/24301e0ecb3367dbbb702ee389e0cb35/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:2:5-38
+		INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:1:1-41:12
+		INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:3:4-40:19
+MERGED from [:firebase_auth] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_auth] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_storage] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:cloud_firestore] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [:firebase_core] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-13:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/510f364f5b87b5b3fe9cfa40bddc7f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/510f364f5b87b5b3fe9cfa40bddc7f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:26:5-71:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:15:5-23:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:28:5-36:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/treinetic/.gradle/caches/transforms-3/4f8047ea3f940436d5995ff87006a49f/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/treinetic/.gradle/caches/transforms-3/4f8047ea3f940436d5995ff87006a49f/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/treinetic/.gradle/caches/transforms-3/1036d70c6a2692ece9b33ad7d4bc8c25/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/treinetic/.gradle/caches/transforms-3/1036d70c6a2692ece9b33ad7d4bc8c25/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:23:5-20
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:24:5-37:19
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/treinetic/.gradle/caches/transforms-3/9f63623c9598f9004b3bed7784264901/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/treinetic/.gradle/caches/transforms-3/9f63623c9598f9004b3bed7784264901/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c27b945746c96f85cf690f03cba73097/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c27b945746c96f85cf690f03cba73097/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/8fcbd48d5961f17e7c8288d78eca842d/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/8fcbd48d5961f17e7c8288d78eca842d/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/treinetic/.gradle/caches/transforms-3/1084bb56b4362ca1feff46070bf481f7/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/treinetic/.gradle/caches/transforms-3/1084bb56b4362ca1feff46070bf481f7/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.core:core:1.6.0] /Users/treinetic/.gradle/caches/transforms-3/8d889b06ca2c94fe76a85cd4027e5fb0/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /Users/treinetic/.gradle/caches/transforms-3/8d889b06ca2c94fe76a85cd4027e5fb0/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/treinetic/.gradle/caches/transforms-3/9bc3cc63e8b0ec233fd4a46be56d4c0c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/treinetic/.gradle/caches/transforms-3/9bc3cc63e8b0ec233fd4a46be56d4c0c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /Users/treinetic/.gradle/caches/transforms-3/8d889b06ca2c94fe76a85cd4027e5fb0/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:4:9-36
+	android:icon
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:5:9-43
+activity#com.example.whatsapp_ui.MainActivity
+ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:6:9-34:20
+	android:launchMode
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:8:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:11:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:12:13-55
+	android:configChanges
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:10:13-163
+	android:theme
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:9:13-47
+	android:name
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:17:13-20:17
+	android:resource
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:19:15-52
+	android:name
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:18:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:28:15-61
+	android:name
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:27:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:32:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:39:13-30
+	android:name
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml:38:13-44
+uses-sdk
+INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml
+MERGED from [:firebase_auth] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_auth] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_storage] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:cloud_firestore] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_core] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/09eb11c9e64774716889d0f394dcc8ef/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/09eb11c9e64774716889d0f394dcc8ef/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/510f364f5b87b5b3fe9cfa40bddc7f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/510f364f5b87b5b3fe9cfa40bddc7f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/treinetic/.gradle/caches/transforms-3/4f8047ea3f940436d5995ff87006a49f/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/treinetic/.gradle/caches/transforms-3/4f8047ea3f940436d5995ff87006a49f/transformed/jetified-firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/treinetic/.gradle/caches/transforms-3/1036d70c6a2692ece9b33ad7d4bc8c25/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-appcheck-interop:16.1.0] /Users/treinetic/.gradle/caches/transforms-3/1036d70c6a2692ece9b33ad7d4bc8c25/transformed/jetified-firebase-appcheck-interop-16.1.0/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/treinetic/.gradle/caches/transforms-3/dc1d7fa97ff98fc32648a19aee4756eb/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] /Users/treinetic/.gradle/caches/transforms-3/dc1d7fa97ff98fc32648a19aee4756eb/transformed/jetified-play-services-auth-api-phone-17.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/treinetic/.gradle/caches/transforms-3/9f63623c9598f9004b3bed7784264901/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] /Users/treinetic/.gradle/caches/transforms-3/9f63623c9598f9004b3bed7784264901/transformed/jetified-play-services-safetynet-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c5e6dcbee54ffb7bc7ed7875285b15b3/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c5e6dcbee54ffb7bc7ed7875285b15b3/transformed/jetified-firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c27b945746c96f85cf690f03cba73097/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c27b945746c96f85cf690f03cba73097/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/8fcbd48d5961f17e7c8288d78eca842d/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/8fcbd48d5961f17e7c8288d78eca842d/transformed/jetified-play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/treinetic/.gradle/caches/transforms-3/1084bb56b4362ca1feff46070bf481f7/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.1.0] /Users/treinetic/.gradle/caches/transforms-3/1084bb56b4362ca1feff46070bf481f7/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/treinetic/.gradle/caches/transforms-3/d2a5086dac42f28d558f587f429bac22/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/treinetic/.gradle/caches/transforms-3/d2a5086dac42f28d558f587f429bac22/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/treinetic/.gradle/caches/transforms-3/cbf11ddf072208f721d5f0d2556ca39c/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/treinetic/.gradle/caches/transforms-3/cbf11ddf072208f721d5f0d2556ca39c/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/66696fb7cb7180e8406ec2b33fa6c129/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/66696fb7cb7180e8406ec2b33fa6c129/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/eb6a54cd5b117c33cfdb84431b336157/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/eb6a54cd5b117c33cfdb84431b336157/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/33d7c7b8bc2fa9a1b035f07c2bc81b63/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/33d7c7b8bc2fa9a1b035f07c2bc81b63/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/56f9f7c29be2667cd1c071b58160a9ef/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/56f9f7c29be2667cd1c071b58160a9ef/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /Users/treinetic/.gradle/caches/transforms-3/8d889b06ca2c94fe76a85cd4027e5fb0/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /Users/treinetic/.gradle/caches/transforms-3/8d889b06ca2c94fe76a85cd4027e5fb0/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/treinetic/.gradle/caches/transforms-3/9bb2124341d70a2446b2563ce780fb8d/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/treinetic/.gradle/caches/transforms-3/9bb2124341d70a2446b2563ce780fb8d/transformed/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/acccb81d821b4df4e4f8d926ed206ce8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/acccb81d821b4df4e4f8d926ed206ce8/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/treinetic/.gradle/caches/transforms-3/2dd4241f6fd3e8adad1b312698d128dd/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/treinetic/.gradle/caches/transforms-3/2dd4241f6fd3e8adad1b312698d128dd/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/treinetic/.gradle/caches/transforms-3/f9f8185c759285bdcc930acb7be6a40d/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/treinetic/.gradle/caches/transforms-3/f9f8185c759285bdcc930acb7be6a40d/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/2d14ad8a7f745ef47096b868c26be855/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/2d14ad8a7f745ef47096b868c26be855/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/fa55b1027150146619bdde9f888d45d4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/fa55b1027150146619bdde9f888d45d4/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/treinetic/.gradle/caches/transforms-3/462694833ab6cd4da738a629fc835fd8/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:17.0.1] /Users/treinetic/.gradle/caches/transforms-3/462694833ab6cd4da738a629fc835fd8/transformed/jetified-firebase-components-17.0.1/AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/treinetic/.gradle/caches/transforms-3/c34982c3ee191fd3aea94f4ea6742aba/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/treinetic/.gradle/caches/transforms-3/c34982c3ee191fd3aea94f4ea6742aba/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/treinetic/.gradle/caches/transforms-3/9bc3cc63e8b0ec233fd4a46be56d4c0c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/treinetic/.gradle/caches/transforms-3/9bc3cc63e8b0ec233fd4a46be56d4c0c/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/f8068311d6d5a4b0409de2014f73aa09/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/treinetic/.gradle/caches/transforms-3/f8068311d6d5a4b0409de2014f73aa09/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/treinetic/.gradle/caches/transforms-3/6be2396bfc332f8b4ff96833fe90ab37/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/treinetic/.gradle/caches/transforms-3/6be2396bfc332f8b4ff96833fe90ab37/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/treinetic/.gradle/caches/transforms-3/c76b560031238fb96548d1814a4ee445/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/treinetic/.gradle/caches/transforms-3/c76b560031238fb96548d1814a4ee445/transformed/jetified-protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.48.1] /Users/treinetic/.gradle/caches/transforms-3/3ae9f626f5bee54498976aa76df0e44c/transformed/jetified-grpc-android-1.48.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.grpc:grpc-android:1.48.1] /Users/treinetic/.gradle/caches/transforms-3/3ae9f626f5bee54498976aa76df0e44c/transformed/jetified-grpc-android-1.48.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/treinetic/.gradle/caches/transforms-3/24301e0ecb3367dbbb702ee389e0cb35/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/treinetic/.gradle/caches/transforms-3/24301e0ecb3367dbbb702ee389e0cb35/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml:6:5-66
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:13:5-67
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:26:5-67
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:26:5-67
+	android:name
+		ADDED from /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/debug/AndroidManifest.xml:6:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_auth] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_storage] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:cloud_firestore] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [:firebase_core] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:64:9-70:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:16:9-22:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:66:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [:firebase_auth] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar
+ADDED from [:firebase_auth] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_auth] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_auth] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_storage] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_storage] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_storage] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar
+ADDED from [:cloud_firestore] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:cloud_firestore] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:cloud_firestore] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-134
+meta-data#com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar
+ADDED from [:firebase_core] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [:firebase_core] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [:firebase_core] /Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-124
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/510f364f5b87b5b3fe9cfa40bddc7f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/510f364f5b87b5b3fe9cfa40bddc7f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/510f364f5b87b5b3fe9cfa40bddc7f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/510f364f5b87b5b3fe9cfa40bddc7f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/510f364f5b87b5b3fe9cfa40bddc7f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0-beta04] /Users/treinetic/.gradle/caches/transforms-3/510f364f5b87b5b3fe9cfa40bddc7f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:25:5-79
+MERGED from [io.grpc:grpc-android:1.48.1] /Users/treinetic/.gradle/caches/transforms-3/3ae9f626f5bee54498976aa76df0e44c/transformed/jetified-grpc-android-1.48.1/AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.48.1] /Users/treinetic/.gradle/caches/transforms-3/3ae9f626f5bee54498976aa76df0e44c/transformed/jetified-grpc-android-1.48.1/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:24:22-76
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:27:9-44:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:29:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:31:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:30:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:32:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:28:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:33:13-43:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:34:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:36:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:36:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:37:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:39:17-42:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:41:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:40:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:42:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:45:9-62:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:47:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:49:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:48:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:50:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:46:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:51:13-61:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:67:13-69:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:69:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:21.1.0] /Users/treinetic/.gradle/caches/transforms-3/ee196ebcfe616b1b9f7f496602f5797b/transformed/jetified-firebase-auth-21.1.0/AndroidManifest.xml:68:17-109
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:19:13-21:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:21:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:24.4.0] /Users/treinetic/.gradle/caches/transforms-3/f1766378f15f493b4421f7311ebf61dc/transformed/jetified-firebase-firestore-24.4.0/AndroidManifest.xml:20:17-111
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:20.1.0] /Users/treinetic/.gradle/caches/transforms-3/4feaefd73556faa3bee85ac983c02873/transformed/jetified-firebase-storage-20.1.0/AndroidManifest.xml:33:17-107
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:25:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:27:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:29:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:28:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:20.2.0] /Users/treinetic/.gradle/caches/transforms-3/dba31e03ef2c09631da099c2f50883ba/transformed/jetified-firebase-common-20.2.0/AndroidManifest.xml:26:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c27b945746c96f85cf690f03cba73097/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c27b945746c96f85cf690f03cba73097/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c27b945746c96f85cf690f03cba73097/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /Users/treinetic/.gradle/caches/transforms-3/c27b945746c96f85cf690f03cba73097/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/treinetic/.gradle/caches/transforms-3/1084bb56b4362ca1feff46070bf481f7/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/treinetic/.gradle/caches/transforms-3/1084bb56b4362ca1feff46070bf481f7/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.1.0] /Users/treinetic/.gradle/caches/transforms-3/1084bb56b4362ca1feff46070bf481f7/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
