@@ -1,1 +1,0 @@
-/Users/treinetic/Desktop/Work/personal work/whatsapp_clone-flutter/android/app/src/main/kotlin/com/example/whatsapp_ui/MainActivity.kt
