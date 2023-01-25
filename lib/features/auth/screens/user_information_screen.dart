@@ -1,19 +1,22 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
+import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:whatsapp_ui/common/utils/utils.dart';
+import 'package:whatsapp_ui/features/auth/controller/auth_controller.dart';
 
 import '../../../common/const.dart';
 
-class UserInformationScreen extends StatefulWidget {
+class UserInformationScreen extends ConsumerStatefulWidget {
   static const String routeName = '/user-information';
   const UserInformationScreen({Key? key}) : super(key: key);
 
   @override
-  State<UserInformationScreen> createState() => _UserInformationScreenState();
+  ConsumerState<UserInformationScreen> createState() =>
+      _UserInformationScreenState();
 }
 
-class _UserInformationScreenState extends State<UserInformationScreen> {
+class _UserInformationScreenState extends ConsumerState<UserInformationScreen> {
   final TextEditingController nameController = TextEditingController();
   File? image;
 
@@ -26,6 +29,16 @@ class _UserInformationScreenState extends State<UserInformationScreen> {
   void selectImage() async {
     image = await pickImageFromGallery(context);
     setState(() {});
+  }
+
+  void storeUserData() async {
+    String name = nameController.text.trim();
+
+    if (name.isNotEmpty) {
+      ref
+          .read(authControllerProvider)
+          .saveUserDataToFiresbase(context, name, image);
+    }
   }
 
   @override
@@ -66,7 +79,7 @@ class _UserInformationScreenState extends State<UserInformationScreen> {
                       const InputDecoration(hintText: 'Enter your name'),
                 ),
               ),
-              IconButton(onPressed: () {}, icon: const Icon(Icons.done))
+              IconButton(onPressed: storeUserData, icon: const Icon(Icons.done))
             ],
           )
         ],
