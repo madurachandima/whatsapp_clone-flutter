@@ -14,7 +14,7 @@ class LoginScreen extends ConsumerStatefulWidget {
 }
 
 class _LoginScreenState extends ConsumerState<LoginScreen> {
-  final phoneController = TextEditingController(text: '766670970');
+  final phoneController = TextEditingController();
   Country? country;
 
   @override

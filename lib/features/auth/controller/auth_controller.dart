@@ -41,4 +41,8 @@ class AuthController {
     authRepository.saveUserDataToFirestore(
         name: name, profilePic: profilePic, ref: ref, context: context);
   }
+
+  Stream<UserModel> userDataById(String userID) {
+    return authRepository.userData(userID);
+  }
 }
